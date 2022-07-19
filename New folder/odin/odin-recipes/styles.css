@@ -1,0 +1,21 @@
+
+body{
+    background-color: #E0D8B0;
+}
+.row{
+    justify-content: center;
+    align-items: center;
+    margin: 80px;
+    padding: 100px;
+}
+.content, h1{
+    font-weight: bold;
+    color: darkred;
+    font-size: 100px;
+    margin:  30px;
+    font-family: 'Splash', cursive;
+}
+.card-text{
+
+    font-weight: bolder;
+}
